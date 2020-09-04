@@ -1,4 +1,4 @@
-### Hi there 👋
+Bello, my name is Sinh Noun. I'm a frontend developer who love Javascript/Typescript.
 
 <!--
 **sinh117801/sinh117801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
